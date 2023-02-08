@@ -1,17 +1,44 @@
 ---
-title: Virtual Workshop Schedule
+title: Advanced scRNA-seq Workshop Schedule
 nav_title: Schedule
 ---
 
-<!--See an example from a past virtual workshop here: https://github.com/AlexsLemonade/2020-may-training/wiki/Schedule --> 
+A preliminary schedule for the March 2023 CCDL Virtual Advanced scRNA-seq Training Workshop appears below.
 
-| Time        | Topic                                          |
-|-------------|------------------------------------------------|
-| **Day 1**   | **Date** <br> [Module]()                      |
-| 12:00 PM    | Welcome, Introductions and Getting Started     <br>[Welcome Slides (PDF)](../slides/ Workshop_Introduction.pdf)|
-| 5:00        | End             |
-| **Day 2**   | **Date**  | 
-| **Day 3**   | **Date**  |               
-| **Day 4**   | **Date**  | 
-| **Day 5**   | **Date**  |     
-| 5:00        | Adjourn   |
+Note: All times are [EDT (UTC−04:00)](https://www.timeanddate.com/time/zones/edt). Be aware that we transition(ed) to Daylight Saving Time on March 12, so relative times may have changed!
+
+| Time      | Topic        | Location |
+|-----------|--------------|----------|
+| **Day 1** | **2023-03-13** |        |
+| 12:00 PM   | Welcome, Introductions and Getting Started |
+| 1:00 PM  | Introduction/Refresher to Single-cell Analysis with R and Bioconductor  <br> [Single-cell Analysis with R instruction notebook](http://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq-advanced/01-read_filter_normalize_scRNA.nb.html)  | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
+| 4:00 PM | Questions and introduction to the exercises | Zoom: [Breakout Rooms](../virtual-setup/zoom-procedures.md#using-zoom-breakout-rooms) |
+|   | [Exercise: Importing CITE-seq data](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq-advanced/exercise_01-citeseq.Rmd) | |
+|   | [Consultation session](workshop-structure.md#consultation-sessions)<br> [Resources](resources-for-consultation-sessions.md) | [Slack channel](../virtual-setup/slack-procedures.md#general-use) |
+| 5:00 PM   | *Adjourn for the day*                                            |
+|           |                                                                  |
+| **Day 2** | **2023-03-14**                                                   |
+| 12:00 PM   | Identifying Cell Types with scRNA-seq Data <br> [Cell Typing instruction notebook](http://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq-advanced/02-celltype_assignment.nb.html) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
+| 3:00 PM  | Questions and introduction to the exercises | Zoom: [Breakout Rooms](../virtual-setup/zoom-procedures.md#using-zoom-breakout-rooms) |
+|   | [Exercise: Cell type assignment](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq-advanced/exercise_02-celltype.Rmd) |
+|   | [Consultation session](workshop-structure.md#consultation-sessions)<br> [Resources](resources-for-consultation-sessions.md) | [Slack channel](../virtual-setup/slack-procedures.md#general-use) |
+| 5:00 PM   | *Adjourn for the day*                                            |
+|           |                                                                  |
+| **Day 3** | **2023-03-15**                                                   |
+| 12:00 PM   | Integrating scRNA-seq Experiments  <br> [Integration instruction notebook](http://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq-advanced/03-dataset_integration.nb.html) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
+| 3:00 PM  | Questions and introduction to the exercises | Zoom: [Breakout Rooms](../virtual-setup/zoom-procedures.md#using-zoom-breakout-rooms) |
+| | [Exercise: Integration](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq-advanced/exercise_03-integration.Rmd) |
+|   | [Consultation session](workshop-structure.md#consultation-sessions) <br> [Resources](resources-for-consultation-sessions.md)| [Slack channel](../virtual-setup/slack-procedures.md#general-use) |
+| 5:00 PM   | *Adjourn for the day*                                            |
+|           |                                                                  |
+| **Day 4** | **2023-03-16**                                                   |
+| 12:00 PM   | Differential Expression Analysis with scRNA-seq <br> [Differential Expression instruction notebook](http://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/04-differential_expression.nb.html)   | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
+|  3:00 PM | Questions and introduction to the exercises | Zoom: [Breakout Rooms](../virtual-setup/zoom-procedures.md#using-zoom-breakout-rooms) |
+|   | [Exercise: Differential Expression](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq-advanced/exercise_04-diffexp.Rmd) |
+|   | [Consultation session](workshop-structure.md#consultation-sessions)<br> [Resources](resources-for-consultation-sessions.md) | [Slack channel](../virtual-setup/slack-procedures.md#general-use) |
+| 5:00 PM   | *Adjourn for the day*                                            |
+|           |                                                                  |
+| **Day 5** | **2023-03-17**                                                   |
+| 12:00 PM    | [Consultation session](workshop-structure.md#consultation-sessions)  | [Slack channel](../virtual-setup/slack-procedures.md#general-use) |
+| 2:30 PM     | [Participant presentations begin](workshop-structure.md#presentations) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
+| 5:00 PM     | Adjourn   |
