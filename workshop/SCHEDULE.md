@@ -5,7 +5,7 @@ nav_title: Schedule
 
 A preliminary schedule for the March 2023 CCDL Virtual Advanced scRNA-seq Training Workshop appears below.
 
-Note: All times are EDT (UTC−04:00). Be aware that we transition(ed) to Daylight Saving Time on March 12, so relative times may have changed!
+Note: All times are [EDT (UTC−04:00)](https://www.timeanddate.com/time/zones/edt). Be aware that we transition(ed) to Daylight Saving Time on March 12, so relative times may have changed!
 
 | Time      | Topic        | Location |
 |-----------|--------------|----------|
