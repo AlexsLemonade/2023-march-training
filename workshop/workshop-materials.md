@@ -9,6 +9,10 @@ Data Lab training materials are available on Github, in either this repository o
 
 ### Slides
 
+PDF versions of the slides we present in this workshop can be found in the [slides directory]({{site.repository_url}}/tree/master/slides) of the `{{site.repository}}` repository, and are also linked to directly from the [schedule](SCHEDULE.md).
+
+### Module Structure
+
 All materials for this workshop can be found in the `training-modules` repository within the [`scRNA-seq-advanced`](https://github.com/AlexsLemonade/training-modules/tree/{{site.release_tag}}/scRNA-seq-advanced) folder.
 This folder includes both instruction notebooks we will walk through during the workshop and exercise notebooks to be used for practice (denoted by the `exercise` prefix).
 
