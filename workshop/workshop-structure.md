@@ -5,7 +5,7 @@ nav_title: Structure
 
 Our goals in constructing the virtual workshop structure are the following:
 
-* You will be introduced to `<workshop content>` through a series of hands-on exercises.
+* You will be introduced to methods for processing and analysis of scRNA-seq data such as cell typing, integration, and differential expression, through a series of hands-on exercises.
 * You are able to ask questions and receive 1:1 assistance as needed during instruction. Because our instruction is almost entirely through hands-on exercises, we want to make sure we can help you through any difficulties or errors you may encounter.
 * You have the opportunity to practice the skills you learn during instruction in consultation sessions with the support of your instructors.
 * You receive consultation about the data you are working with to answer your research questions.
