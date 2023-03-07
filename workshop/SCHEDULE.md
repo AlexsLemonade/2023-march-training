@@ -38,7 +38,8 @@ Note: All times are [EDT (UTC−04:00)](https://www.timeanddate.com/time/zones/e
 |           |                                                                  |
 | **Day 4** | **2023-03-16**                                                   |
 | 12:00 PM  | Differential Expression Analysis with scRNA-seq | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
-|          | [Differential Expression instruction notebook](http://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/04-differential_expression.nb.html)
+|          | [Differential Expression slides (PDF)](../slides/2023-03-16_differential_expression.pdf) |
+|          | [Differential Expression instruction notebook](http://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/04-differential_expression.nb.html) |
 |  3:00 PM | Questions and introduction to the exercises | Zoom: [Breakout Rooms](../virtual-setup/zoom-procedures.md#using-zoom-breakout-rooms) |
 |   | [Exercise: Differential Expression](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq-advanced/exercise_04-diffexp.Rmd) |
 |   | [Consultation session](workshop-structure.md#consultation-sessions)<br> [Resources](resources-for-consultation-sessions.md) | [Slack channel](../virtual-setup/slack-procedures.md#general-use) |
