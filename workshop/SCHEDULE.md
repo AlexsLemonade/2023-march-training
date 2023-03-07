@@ -30,6 +30,7 @@ Note: All times are [EDT (UTC−04:00)](https://www.timeanddate.com/time/zones/e
 |           |                                                                  |
 | **Day 3** | **2023-03-15**                                                   |
 | 12:00 PM  | Integrating scRNA-seq Experiments | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
+|           | [Integration slides (PDF)](../slides/2023-03-15_integrating_datasets.pdf) | |
 |           | [Integration instruction notebook](http://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq-advanced/03-dataset_integration.nb.html) |
 | 3:00 PM  | Questions and introduction to the exercises | Zoom: [Breakout Rooms](../virtual-setup/zoom-procedures.md#using-zoom-breakout-rooms) |
 | | [Exercise: Integration](https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq-advanced/exercise_03-integration.Rmd) |
