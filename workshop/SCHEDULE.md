@@ -10,7 +10,7 @@ Note: All times are [EDT (UTC−04:00)](https://www.timeanddate.com/time/zones/e
 | Time      | Topic        | Location |
 |-----------|--------------|----------|
 | **Day 1** | **2023-03-13** |        |
-| 12:00 PM  | Welcome, Introductions and Getting Started | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
+| 12:00 PM  | [Welcome, Introductions and Getting Started](../slides/2023-03-13_workshop_intro.pdf) | Zoom: [Main Session](../virtual-setup/zoom-procedures.md#joining-a-zoom-call) |
 | 1:00 PM   | Introduction/Refresher to Single-cell Analysis with R and Bioconductor |
 |           | [Single-cell Analysis with R slides (PDF)](../slides/2023-03-13_scRNAseq_intro.pdf) | |
 |           | [Single-cell Analysis with R instruction notebook](http://htmlpreview.github.io/?https://github.com/AlexsLemonade/training-modules/blob/{{site.release_tag}}/scRNA-seq-advanced/01-read_filter_normalize_scRNA.nb.html) | |
